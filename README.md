@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sourav3366
-- 👀 I’m interested in machine learning and deep learning
+- 👀 I’m interested in Data science
 - 🌱 I’m currently learning full course on machine learning deep learning from Applied Ai
 - 💞️ I’m looking to collaborate on sales forecasting projects using machine learning.
 - 📫 How to reach me  through --https://www.linkedin.com/in/sourav-kumar-750b91153/
