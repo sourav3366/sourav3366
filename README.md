@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.canva.com/design/DAFutx3SErg/view)
+![MasterHead](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-a886b.webp)
 
 <h1 align="center">Hi 👋, I'm Sourav Kumar</h1>
 <h3 align="center">Welcome to my GitHub profile! I am a passionate web developer with a strong focus on creating dynamic and responsive web applications. With years of experience in the field, I have honed my skills in various programming languages such as HTML, CSS, JavaScript, React.js and more.</h3>
