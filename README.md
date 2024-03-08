@@ -24,7 +24,7 @@ I'm Sourav Kumar, a passionate full-stack developer from India. Welcome to my Gi
 
 ## GitHub Stats
 
-![Sourav Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravbit&show_icons=true&hide=contribs,prs)
+![Sourav Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav3366&show_icons=true&hide=contribs,prs)
 
 ## Top Languages
 
