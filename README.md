@@ -28,7 +28,7 @@ I'm Sourav Kumar, a passionate full-stack developer from India. Welcome to my Gi
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravbit&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav3366&layout=compact)
 
 ## My Projects
 
