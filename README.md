@@ -29,11 +29,6 @@ I'm Sourav Kumar, a passionate DevOps Engineer from India, dedicated to automati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav3366&layout=compact)
 
-## My Projects
-
-- [Project 1](link to project 1)
-- [Project 2](link to project 2)
-- ...
 
 ## Connect with Me
 
