@@ -1,26 +1,25 @@
 # Hi there! 👋
 
-I'm Sourav Kumar, a passionate full-stack developer from India. Welcome to my GitHub profile!
+I'm Sourav Kumar, a passionate DevOps Engineer from India, dedicated to automating, optimizing, and securing cloud-native infrastructure. Welcome to my GitHub profile!
 
 ## About Me
 
 - 🏏 Cricket and ✈️ Travelling enthusiast.
-- 🌱 I’m currently learning more about web development and exploring new technologies.
-- 💬 Ask me about anything related to web development or share your favorite cricket moments!
+- 🔧 Experienced in CI/CD, cloud platforms, containerization, and infrastructure as code (IaC).
+- 🌱 Currently mastering Kubernetes, Terraform, and AWS DevOps best practices.
+- 💬 Ask me about Docker, Kubernetes, Terraform, AWS, CI/CD pipelines, monitoring, or automation.
 - 📫 How to reach me: [souravbit3366@gmail.com](mailto:souravbit3366@gmail.com) | 📱 8235546737
-- 😄 Pronouns: He/Him
 
 ## Technologies & Tools
 
-- HTML, CSS
-- JavaScript, TypeScript
-- React.js, Next.js
-- Node.js, Express
-- MongoDB, Mongoose
-- Zod (for TypeScript runtime type checking)
-- Python
-- Tailwind CSS
-- Material UI
+- Cloud: AWS (EC2, S3, Lambda, API Gateway, CloudWatch, ELB, IAM)
+- Containers & Orchestration: Docker, Kubernetes (EKS, KIND)
+- Infrastructure as Code (IaC): Terraform, AWS CloudFormation
+- CI/CD Pipelines: Jenkins, GitHub Actions, GitLab CI/CD
+- Monitoring & Logging: Prometheus, Grafana, CloudWatch
+- Configuration Management: Ansible
+- Version Control & Scripting: Git, Bash, Python
+- Networking & Security: VPC, Security Groups, IAM Policies, TLS/SSL
 
 ## GitHub Stats
 
